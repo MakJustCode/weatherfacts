@@ -1,6 +1,6 @@
 [Demo](https://makensonn.github.io/)
 ## Weather Facts
-This applications is my portfolio website showing my skills, achievements, and projects.
+This is a weather application that fetches data from a weather API.
 
 ## Getting Started
 
