@@ -1,4 +1,4 @@
-[Demo](https://makensonn.github.io/)
+[Demo](https://weatherfacts.vercel.app/)
 ## Weather Facts
 This is a weather application that fetches data from a weather API.
 
